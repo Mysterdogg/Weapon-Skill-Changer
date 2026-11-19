@@ -1,4 +1,4 @@
-# Weapon Skill Changer v1.0.0 by Mysterdogg
+# Weapon Skill Changer by Mysterdogg
 
 A small CLEO script for GTA San Andreas (US 1.0) that changes the skill level of the weapon the player is holding, or of every weapon at once. 
 It is meant as a testing tool for anything related to weapon skills (dual wielding, accuracy, reload speed, moving while aiming...) and as a clean base for other mods.
