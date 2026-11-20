@@ -5,16 +5,15 @@ It is meant as a testing tool for anything related to weapon skills (dual wieldi
 
 ## Requirements
 
-- GTA San Andreas US 1.0
-- CLEO 4.4.4 (no extra libraries needed)
-- Silent's ASI Loader v1.5 (or higher)
+- GTA San Andreas US 1.0 (Hoodlum + Largeadress recommended)
+- CLEO 4.4.4
+- Silent's ASI Loader 1.5 (or higher)
 
 ## Installation
 
-1. Copy `WeaponSkillChanger.cs` into the game's `CLEO` folder.
-2. (Optional) Copy `WeaponSkillChanger.ini` into the same `CLEO` folder to change keys or settings.
+1. Copy `WeaponSkillChanger.cs` & `WeaponSkillChanger.ini` into the game's `CLEO` folder.
 
-Note: Modloader compatible!
+`Modloader compatible!`
 
 ## Controls
 
